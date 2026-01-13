@@ -7,7 +7,7 @@ This project focuses on backend architecture, REST APIs, and database optimizati
 
 ## 🚀 Features
 - User Authentication (Login & Signup)
-- Create, Read, Delete Tweets
+- Create, Read
 - Follow / Unfollow Users
 - User Feed & Timeline
 - RESTful APIs for all operations
