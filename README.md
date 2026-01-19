@@ -5,7 +5,7 @@ This project focuses on backend architecture, REST APIs, and database optimizati
 
 ---
 
-## 🚀 Features
+##  Features
 - User Authentication (Login & Signup)
 - Create, Read
 - Follow / Unfollow Users
@@ -14,7 +14,7 @@ This project focuses on backend architecture, REST APIs, and database optimizati
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 **Frontend:** HTML, CSS, JavaScript  
 **Backend:** Java, Spring MVC  
 **Database:** PostgreSQL  
@@ -22,7 +22,7 @@ This project focuses on backend architecture, REST APIs, and database optimizati
 
 ---
 
-## ⚙️ Architecture
+## Architecture
 - MVC architecture using Spring
 - REST APIs for client-server communication
 - PostgreSQL with optimized queries
@@ -30,7 +30,7 @@ This project focuses on backend architecture, REST APIs, and database optimizati
 
 ---
 
-## 📊 Performance Highlights
+## Performance Highlights
 - Optimized DB queries with response time under **10ms**
 - Backend API latency under **50ms**
 - 100% REST API test coverage using Postman and JUnit
